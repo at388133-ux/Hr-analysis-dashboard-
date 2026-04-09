@@ -1,5 +1,4 @@
-# Hr-analysis-dashboard-
- 
-<img width="1465" height="884" alt="image" src="https://github.com/user-attachments/assets/5c29ff1f-e1f7-4e1c-a72b-c51442c5d8f7" />
+# Hr-analysis-dashboard
+<img width="1862" height="1104" alt="image" src="https://github.com/user-attachments/assets/b1666982-c483-4a97-9b84-787150198547" />
 
-i have used vlookup, xlookup, pivot and got these insights also i have orgganised data in the charts 
+i have used vlookup, xlookup, pivot and got these insights also i have orgganised data in the charts
